@@ -7,7 +7,7 @@ Penrose Tiling for 3ds Max
 #[Download Scene File](http://bit.ly/149I58S)
 
 ![L-System screenshot](https://raw.github.com/CreativeTools/ct-penrose-tiles/master/screenshot.png)
-###[Video](https://vimeo.com/66795871)
+###[Video](https://vimeo.com/67291302)
 
 ##Usage
 You will need to download both the script and the scene file. Open the scene file in 3ds Max, click *MAXScript* -> *Run Script*.
